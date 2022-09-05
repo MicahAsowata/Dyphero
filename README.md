@@ -4,11 +4,11 @@ A decryptor based on the Caesar Cipher
 
 Call the function
 
-`dyphero(cipher_text='some text', key=A number)`
+    `dyphero(cipher_text='some text', key=A number)`
 
 The output should be: 
 
-`Decrypted value of the cipher text`
+    `Decrypted value of the cipher text`
 
 ## Notes
 
